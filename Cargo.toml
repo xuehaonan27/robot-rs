@@ -2,5 +2,9 @@
 name = "robot-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["Xue Haonan <xuehaonan27@gmail.com>"]
+repository = "https://github.com/xuehaonan27/robot-rs"
+license = "MIT OR Apache-2.0"
+description = "Rust native cross-platform automation."
 
 [dependencies]
