@@ -8,3 +8,6 @@ license = "MIT OR Apache-2.0"
 description = "Rust native cross-platform automation."
 
 [dependencies]
+core-graphics = { version = "0.24.0", features = ["highsierra"] }
+rand = "0.8"
+thiserror = "2.0"
