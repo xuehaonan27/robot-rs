@@ -5,7 +5,7 @@ use core_graphics::event_source::{CGEventSource, CGEventSourceStateID};
 use core_graphics::geometry::CGPoint;
 use rand::Rng;
 
-use crate::base::types::PointF64;
+use crate::geometry::PointF64;
 
 // use super::MouseError;
 
